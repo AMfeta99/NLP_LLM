@@ -35,6 +35,9 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Configure an open-source supervised tuning pipeline and then execute that pipeline to train and then deploy a tuned LLM.
   - Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
   - Tun and deploy LLM
-  - Tools you’ll practice with include BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud. 
+  - Tools you’ll practice with include BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
+
+### Disclaimer
+Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS and Google Cloud and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
 https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
