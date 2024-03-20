@@ -1,1 +1,1 @@
-# Natural Language processing (NLP) and Large Language Models (LLM)
+# Natural Language processing and Large Language Models (NLP & LLM)
