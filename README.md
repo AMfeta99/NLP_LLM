@@ -17,10 +17,12 @@ Since then, interest and popularity in the area has been growing, particularly d
 
 
 ### [Finetuning Large Language Models](https://www.coursera.org/programs/bosch-learning-program-8hold/projects/finetuning-large-language-models-project?source=search) (DeepLearning.AI & LAMINI)
-With finetuning, you’re able to take your own data to train the model on it, and update the weights of the neural nets in the LLM, changing the model compared to other methods like prompt engineering and Retrieval Augmented Generation. Finetuning allows the model to learn style, form, and can update the model with new knowledge to improve results.
-
+  -  Essential finetuning concepts and how to train a large language model.
+  -  Understand how finetuning differs from prompt engineering, and when to use both.
+  -  Practical experience with real data sets, and how to use techniques for your own projects.
 
 ### [Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/) (DeepLearning.AI & AWS)
+  - 
 
 ### [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
 
