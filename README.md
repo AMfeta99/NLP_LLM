@@ -22,7 +22,12 @@ Since then, interest and popularity in the area has been growing, particularly d
   -  Practical experience with real data sets, and how to use techniques for your own projects.
 
 ### [Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/) (DeepLearning.AI & AWS)
-  - 
+  - Deeply understand generative AI, describing the key steps in a typical LLM-based generative AI lifecycle, from data gathering and model selection, to performance evaluation and deployment
+  - Describe in detail the transformer architecture that powers LLMs, how they’re trained, and how fine-tuning enables LLMs to be adapted to a variety of specific use cases
+  - Use empirical scaling laws to optimize the model's objective function across dataset size, compute budget, and inference requirements
+  - Apply state-of-the art training, tuning, inference, tools, and deployment methods to maximize the performance of models within the specific constraints of your project 
+  - Challenges and opportunities that generative AI creates for businesses after hearing stories from industry researchers and practitioners
+
 
 ### [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
 
