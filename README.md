@@ -3,7 +3,7 @@ This repository is dedicated to projects and some theoretical material that I us
 
 
 ## Master Thesis
-My NLP journey started in 2021-2022 during the development of my master's thesis entitled 
+My NLP journey started in 2021-2022 during the development of my master's thesis entitled:
 ### ["Learning to write medical reports from EEG data"](https://repositorio-aberto.up.pt/handle/10216/144617) 
 This aims the development of methods for clinical report writing based on EEG signals, adapting current NLP techniques and state-of-the-art captioning approaches to image, signal and video. 
 
@@ -13,7 +13,7 @@ The document includes an introdutions to NLP, state-of-the-art approach for capt
 
 
 ## Courses
-My journey in this field began by taking the specialization offered by DeepLearning.ai. This offering offers complete, in-depth details to guide you from the introductory level to the most advanced techniques. It covers how to conceptualize, build, and maintain integrated systems that continuously operate in production.
+Since then, interest and popularity in the area has been growing, particularly due to the emergence of transformers and LLM applications. So, in an attempt to keep up with this development, I took some courses on more recent topics in the areas offered by some of the big players. This repository includes some theoretical/notes and pratical material of thoses.
 
 
 ### [Finetuning Large Language Models](https://www.coursera.org/programs/bosch-learning-program-8hold/projects/finetuning-large-language-models-project?source=search) (DeepLearning.AI & LAMINI)
