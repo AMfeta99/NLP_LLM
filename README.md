@@ -1,4 +1,4 @@
-# Natural Language processing & Large Language Models| NLP & LLM
+# Natural Language processing & Large Language Models | NLP & LLM
 This repository is dedicated to projects and some theoretical material that I used to get into the areas of NLP and LLM in a practical/efficient way.
 
 
