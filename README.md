@@ -41,3 +41,5 @@ Since then, interest and popularity in the area has been growing, particularly d
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS and Google Cloud and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
 https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
+
+https://github.com/andysingal/LLMops/tree/main
