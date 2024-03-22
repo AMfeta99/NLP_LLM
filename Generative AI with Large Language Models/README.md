@@ -2,9 +2,9 @@
 
 The repository contains:
 ## Code Assignments:
- - Summarize_dialogue.ipynb - Dialogue summarization task using generative AI. Perform prompt engineering (compare zero shot, one shot, and few shot inferences).
- - Fine-Tuning Lab.ipynb - Instruction Fine-Tuning using LoRA. Perform PEFT fine-tuning, evaluate the resulting model.
- - RLHF Lab.ipynb - Reinforcement Learning From Human Feedback to align LLMs. Fine-tune FLAN-T5 with RL to generate more-positive summaries.
+ - Summarize_dialogue Lab (Week 1) - Dialogue summarization task using generative AI. Perform prompt engineering (compare zero shot, one shot, and few shot inferences).
+ - Fine-Tuning Lab (Week 2) - Instruction Fine-Tuning using LoRA. Perform PEFT fine-tuning, evaluate the resulting model.
+ - RLHF Lab (Week 3)- Reinforcement Learning From Human Feedback to align LLMs. Fine-tune FLAN-T5 with RL to generate more-positive summaries.
 
 ## Notes & Content
 Week 1:
