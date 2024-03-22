@@ -26,4 +26,6 @@ Week 2:
   - Parameter Efficient Fine Tuning (PEFT)
 
 Week 3:
-  - Reinforcement Learning From Human Feedback (RLHF) - Basics of RLHF.
+  - Human/Model Alignment
+  - Reinforcement Learning From Human Feedback (RLHF)
+  - Model Self-Supervision with Constitutional AI
