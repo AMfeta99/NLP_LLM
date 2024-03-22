@@ -8,9 +8,14 @@ The repository contains:
 
 ## Notes & Content
 Week 1:
-  - Transformers - Basics of Transformers.
+  - Generative AI & LLMs - Definition, concepts, terminology and use cases.
+  - Transformers - Before transformers, key concepts, transformers architecture, types and configurations of transformers
   - Prompting and Prompt Engineering - Basics of prompting, prompt engineering and inference configuration parameters (temperature, etc).
-  - Pre-training Large Language Models - Basics of how LLMs are pre-trained.
+  - Generative AI project lifecycle - 
+  - Pre-training Large Language Models - Model selection, LLMs are pre-trained.
+  - Computational challenge in Training LLMs
+  - Compute-Optimal Models
+  - Domain Adaptation
   - Efficient Multi-GPU Compute Strategies - Approaches available for training LLMs in a distributed manner.
 
 Week 2:
