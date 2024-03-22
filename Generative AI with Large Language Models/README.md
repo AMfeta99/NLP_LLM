@@ -19,9 +19,11 @@ Week 1:
   - Efficient Multi-GPU Compute Strategies
 
 Week 2:
-  - Instruction Fine-Tuning - Basics of fine-tuning LLMs.
-  - Model Evaluation - Metrics and Benchmarks - Details on evaluation metrics and benchmarks for LLMs.
-  - Parameter Efficient Fine Tuning (PEFT) - Basics of PEFT, covering LoRA and Soft Prompts.
+  - Limitations of ICL
+  - Instruction Fine-Tuning 
+  - Model Evaluation
+  - Benchmarks 
+  - Parameter Efficient Fine Tuning (PEFT)
 
 Week 3:
   - Reinforcement Learning From Human Feedback (RLHF) - Basics of RLHF.
