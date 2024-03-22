@@ -43,3 +43,4 @@ Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI,
 https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
 
 https://github.com/andysingal/LLMops/tree/main
+https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/
