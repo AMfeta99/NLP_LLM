@@ -6,7 +6,7 @@ The repository contains:
  - Fine-Tuning Lab.ipynb - Instruction Fine-Tuning using LoRA. Perform PEFT fine-tuning, evaluate the resulting model.
  - RLHF Lab.ipynb - Reinforcement Learning From Human Feedback to align LLMs. Fine-tune FLAN-T5 with RL to generate more-positive summaries.
 
-## Notes & sides
+## Notes & slides
 Week 1:
   - Transformers - Basics of Transformers.
   - Prompting and Prompt Engineering - Basics of prompting, prompt engineering and inference configuration parameters (temperature, etc).
