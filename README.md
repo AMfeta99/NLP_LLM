@@ -37,6 +37,7 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Tun and deploy LLM
   - Tools you’ll practice with include BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
 
+
 ### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS and Google Cloud and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
