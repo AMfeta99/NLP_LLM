@@ -27,7 +27,7 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Use empirical scaling laws to optimize the model's objective function across dataset size, compute budget, and inference requirements.
   - Apply state-of-the art training, tuning, inference, tools, and deployment methods to maximize the performance of models within the specific constraints of your project.
   - Challenges and opportunities that generative AI creates for businesses after hearing stories from industry researchers and practitioners.
-##### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/verify/Y2C2XJL6JMPW)
+#### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/verify/Y2C2XJL6JMPW)
 
 
 ### [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
