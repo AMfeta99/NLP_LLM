@@ -23,7 +23,7 @@ This folder is dedicated to some topics, tools and techniques currently widely u
 [LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
   - Retrieval Augmented Generation (RAG), a common LLM application that retrieves contextual documents from an external dataset.
   - Building a chatbot that responds to queries based on the content of your documents, rather than the information it has learned in training.
-##### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/653c0853-4f9e-47b2-8fd0-c85499664c9a?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
 
 ## Disclaimer
