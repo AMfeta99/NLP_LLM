@@ -36,8 +36,7 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Version data and tuned models to track your tuning experiments.
   - Configure an open-source supervised tuning pipeline and then execute that pipeline to train and then deploy a tuned LLM.
   - Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
-  - Tun and deploy LLM
-  - Practice with Tools as BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
+  - Tun and deploy LLM. Practice with Tools as BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
 ##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
 
 ### 3 - Retrieval Augmented Generation (RAG)
