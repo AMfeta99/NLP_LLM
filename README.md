@@ -55,3 +55,6 @@ https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=
 https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
 
 https://github.com/andysingal/LLMops/tree/main
+Building a RAG application from scratch using Python, LangChain, and the OpenAI API[Link](https://github.com/AMfeta99/NLP_LLM/assets/74252797/55dc7f58-e0ea-4b59-9e08-c7b92f9ffca7)
+How to evaluate an LLM-powered RAG application automatically.[Link](https://github.com/AMfeta99/NLP_LLM/assets/74252797/a7b53f93-6a49-445a-8854-f798a7aefc47)
+
