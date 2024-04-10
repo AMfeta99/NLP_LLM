@@ -28,8 +28,7 @@ Since then, interest and popularity in the area has been growing, particularly d
   -  Essential finetuning concepts and how to train a large language model.
   -  Understand how finetuning differs from prompt engineering, and when to use both.
   -  Practical experience with real data sets, and how to use techniques for projects.
-    
-Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 
 ### 2 - Large Language Model Operations
 [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
