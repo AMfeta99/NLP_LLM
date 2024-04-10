@@ -47,7 +47,7 @@ Since then, interest and popularity in the area has been growing, particularly d
 
 
 ## Disclaimer
-Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS and Google Cloud and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
+Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
 ## Resources
 https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=Pillar%20pages&utm_content=286795896&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
