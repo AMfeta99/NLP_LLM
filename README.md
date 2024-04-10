@@ -23,14 +23,13 @@ Since then, interest and popularity in the area has been growing, particularly d
 #### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [More Info](https://www.coursera.org/account/accomplishments/verify/Y2C2XJL6JMPW)
 
 ## Relevant/Hot Topics
-### 1 - Finetuning LLMs
-##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
-
-### 2 - Large Language Model Operations
+This repository includes the exploration of some topics, tools and techniques currently widely used in NLP and LLM projects or that are in the spotlight in the AI community, such as: 
+1 - Finetuning LLMs
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) 
+2 - Large Language Model Operations
 [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
 ##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
-
-### 3 - Retrieval Augmented Generation (RAG)
+3 - Retrieval Augmented Generation (RAG)
 [LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
 ##### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
