@@ -24,27 +24,27 @@ Since then, interest and popularity in the area has been growing, particularly d
 
 ## Relevant/Hot Topics
 ### Finetuning LLMs
-### [Finetuning Large Language Models](https://www.coursera.org/programs/bosch-learning-program-8hold/projects/finetuning-large-language-models-project?source=search) (DeepLearning.AI & LAMINI)
+#### [Finetuning Large Language Models](https://www.coursera.org/programs/bosch-learning-program-8hold/projects/finetuning-large-language-models-project?source=search) (DeepLearning.AI & LAMINI)
   -  Essential finetuning concepts and how to train a large language model.
   -  Understand how finetuning differs from prompt engineering, and when to use both.
   -  Practical experience with real data sets, and how to use techniques for projects.
-#### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 
 ### Large Language Model Operations
-### [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
+#### [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
   - Retrieve and transform training data for supervised fine-tuning of an LLM.
   - Version data and tuned models to track your tuning experiments.
   - Configure an open-source supervised tuning pipeline and then execute that pipeline to train and then deploy a tuned LLM.
   - Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
   - Tun and deploy LLM
   - Practice with Tools as BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
-#### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
 
 ### Retrieval Augmented Generation (RAG)
-### [LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
+#### [LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
   - Retrieval Augmented Generation (RAG), a common LLM application that retrieves contextual documents from an external dataset.
   - Building a chatbot that responds to queries based on the content of your documents, rather than the information it has learned in training.
-#### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+##### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
 
 ### Disclaimer
