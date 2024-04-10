@@ -20,6 +20,7 @@ Since then, interest and popularity in the area has been growing, particularly d
   -  Essential finetuning concepts and how to train a large language model.
   -  Understand how finetuning differs from prompt engineering, and when to use both.
   -  Practical experience with real data sets, and how to use techniques for your own projects.
+#### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 
 ### [Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/) (DeepLearning.AI & AWS)
   - Deeply understand generative AI, describing the key steps in a typical LLM-based generative AI lifecycle, from data gathering and model selection, to performance evaluation and deployment.
@@ -37,6 +38,7 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
   - Tun and deploy LLM
   - Tools you’ll practice with include BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
+#### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
 
 
 ### Disclaimer
