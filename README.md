@@ -22,7 +22,8 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Challenges and opportunities that generative AI creates for businesses after hearing stories from industry researchers and practitioners.
 #### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [More Info](https://www.coursera.org/account/accomplishments/verify/Y2C2XJL6JMPW)
 
-## Short-Courses
+## Relevant Topics
+### Finetuning LLMs
 ### [Finetuning Large Language Models](https://www.coursera.org/programs/bosch-learning-program-8hold/projects/finetuning-large-language-models-project?source=search) (DeepLearning.AI & LAMINI)
   -  Essential finetuning concepts and how to train a large language model.
   -  Understand how finetuning differs from prompt engineering, and when to use both.
