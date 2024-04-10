@@ -24,9 +24,9 @@ Since then, interest and popularity in the area has been growing, particularly d
 
 ## Relevant/Hot Topics
 This repository includes the exploration of some topics, tools and techniques currently widely used in NLP and LLM projects or that are in the spotlight in the AI community, such as: 
-    - Finetuning LLMs
-    - Large Language Model Operations
-    - Retrieval Augmented Generation (RAG)
+  - Finetuning LLMs
+  - Large Language Model Operations
+  - Retrieval Augmented Generation (RAG)
   
 ##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) 
 [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
