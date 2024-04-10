@@ -38,6 +38,10 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Tools you’ll practice with include BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
 #### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
 
+### [LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
+
+#### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+
 
 ### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS and Google Cloud and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
@@ -48,4 +52,3 @@ https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=
 https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
 
 https://github.com/andysingal/LLMops/tree/main
-https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/
