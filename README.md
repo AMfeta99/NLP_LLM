@@ -14,14 +14,6 @@ The document includes an introdutions to NLP, state-of-the-art approach for capt
 
 ## Courses
 Since then, interest and popularity in the area has been growing, particularly due to the emergence of transformers and LLM applications. So, in an attempt to keep up with this development, I took some courses on more recent topics in the areas offered by some of the big players. This repository includes some theoretical/notes and pratical material of thoses.
-
-
-### [Finetuning Large Language Models](https://www.coursera.org/programs/bosch-learning-program-8hold/projects/finetuning-large-language-models-project?source=search) (DeepLearning.AI & LAMINI)
-  -  Essential finetuning concepts and how to train a large language model.
-  -  Understand how finetuning differs from prompt engineering, and when to use both.
-  -  Practical experience with real data sets, and how to use techniques for your own projects.
-#### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
-
 ### [Generative AI with Large Language Models](https://www.deeplearning.ai/courses/generative-ai-with-llms/) (DeepLearning.AI & AWS)
   - Deeply understand generative AI, describing the key steps in a typical LLM-based generative AI lifecycle, from data gathering and model selection, to performance evaluation and deployment.
   - Describe in detail the transformer architecture that powers LLMs, how they’re trained, and how fine-tuning enables LLMs to be adapted to a variety of specific use cases.
@@ -30,6 +22,12 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Challenges and opportunities that generative AI creates for businesses after hearing stories from industry researchers and practitioners.
 #### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [More Info](https://www.coursera.org/account/accomplishments/verify/Y2C2XJL6JMPW)
 
+## Short-Courses
+### [Finetuning Large Language Models](https://www.coursera.org/programs/bosch-learning-program-8hold/projects/finetuning-large-language-models-project?source=search) (DeepLearning.AI & LAMINI)
+  -  Essential finetuning concepts and how to train a large language model.
+  -  Understand how finetuning differs from prompt engineering, and when to use both.
+  -  Practical experience with real data sets, and how to use techniques for your own projects.
+#### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
 
 ### [LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
   - Retrieve and transform training data for supervised fine-tuning of an LLM.
