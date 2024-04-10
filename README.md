@@ -24,16 +24,15 @@ Since then, interest and popularity in the area has been growing, particularly d
 
 ## Relevant/Hot Topics
 This repository includes the exploration of some topics, tools and techniques currently widely used in NLP and LLM projects or that are in the spotlight in the AI community, such as: 
-  1º- Finetuning LLMs
-  2º- Large Language Model Operations
-  3º- Retrieval Augmented Generation (RAG)
-  
-##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) 
-[LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
-##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
-[LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
-##### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+- Finetuning LLMs
+- Large Language Model Operations
+- Retrieval Augmented Generation (RAG)
 
+To do this, I used a wide variety of bibliographic sources. The list of training actions carried out in this context and the respective objectives can be detailed in (Link).
+These trainings are offered by large companies and players in the areas of AI. Below is the list of completion certifications:
+ - [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing) (DeepLearning.AI & LAMINI)
+ - [LLMOps](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing) (DeepLearning.AI & Google Cloud)
+ - [LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
 
 ## Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
