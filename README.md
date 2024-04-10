@@ -24,9 +24,9 @@ Since then, interest and popularity in the area has been growing, particularly d
 
 ## Relevant/Hot Topics
 This repository includes the exploration of some topics, tools and techniques currently widely used in NLP and LLM projects or that are in the spotlight in the AI community, such as: 
-- Finetuning LLMs
-- Large Language Model Operations
-- Retrieval Augmented Generation (RAG)
+###1- Finetuning LLMs
+###2- Large Language Model Operations
+###3- Retrieval Augmented Generation (RAG)
 
 To do this, I used a wide variety of bibliographic sources. The list of training actions carried out in this context and the respective objectives can be detailed in (Link).
 These trainings are offered by large companies and players in the areas of AI. Below is the list of completion certifications:
