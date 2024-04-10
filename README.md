@@ -50,13 +50,9 @@ Since then, interest and popularity in the area has been growing, particularly d
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
 ## Resources
-https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=Pillar%20pages&utm_content=286795896&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
-
-https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
-
-https://github.com/andysingal/LLMops/tree/main
-
-Building a RAG application from scratch using Python, LangChain, and the OpenAI API[Link](https://github.com/AMfeta99/NLP_LLM/assets/74252797/55dc7f58-e0ea-4b59-9e08-c7b92f9ffca7)
-
-How to evaluate an LLM-powered RAG application automatically.[Link](https://github.com/AMfeta99/NLP_LLM/assets/74252797/a7b53f93-6a49-445a-8854-f798a7aefc47)
+  - https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=Pillar%20pages&utm_content=286795896&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
+  - https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
+  - https://github.com/andysingal/LLMops/tree/main
+  - Building a RAG application from scratch using Python, LangChain, and the OpenAI API [Link](https://github.com/AMfeta99/NLP_LLM/assets/74252797/55dc7f58-e0ea-4b59-9e08-c7b92f9ffca7)
+  - How to evaluate an LLM-powered RAG application automatically [Link](https://github.com/AMfeta99/NLP_LLM/assets/74252797/a7b53f93-6a49-445a-8854-f798a7aefc47)
 
