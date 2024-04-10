@@ -47,10 +47,10 @@ Since then, interest and popularity in the area has been growing, particularly d
 ##### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
 
-### Disclaimer
+## Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS and Google Cloud and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
-### Resources
+## Resources
 https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=Pillar%20pages&utm_content=286795896&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
 
 https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
