@@ -38,7 +38,7 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
   - Tun and deploy LLM
   - Tools you’ll practice with include BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
-#### Course Certificate: [Link](); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
+#### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
 
 
 ### Disclaimer
