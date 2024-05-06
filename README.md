@@ -37,3 +37,8 @@ Those trainings are offered by large companies and Big players in AI. Below is t
 
 ## Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
+
+
+## Projects:
+Here are links to my NLP & LLM projects: 
+- ### [LLM-vs.-Human-Minds](https://github.com/AMfeta99/LLM-vs.-Human-Minds)
