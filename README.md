@@ -42,3 +42,4 @@ Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI,
 ## Projects:
 Here are links to my NLP & LLM projects: 
 - ### [LLM-vs.-Human-Minds](https://github.com/AMfeta99/LLM-vs.-Human-Minds)
+  "Will you be able to win?" This game challenges humans to compete against LLM models in a variety of games.
