@@ -8,6 +8,7 @@ The repository contains:
 
 ## Notes & Content
 (Check my notes on links below)
+
 [Week 1](https://github.com/AMfeta99/NLP_LLM/blob/635d865411ae18c2edef290a73a6d07675c8b3ee/Generative%20AI%20with%20Large%20Language%20Models/w1/GenAI_LLM_1.pdf):
   - Generative AI & LLMs 
   - Transformers 
