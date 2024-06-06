@@ -27,7 +27,7 @@ The repository contains:
   - Benchmarks 
   - Parameter Efficient Fine Tuning (PEFT)
 
-Week 3:
+[Week 3]():
   - Human/Model Alignment
   - Reinforcement Learning From Human Feedback (RLHF)
   - Model Self-Supervision with Constitutional AI
