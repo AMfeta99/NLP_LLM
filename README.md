@@ -33,7 +33,7 @@ To do this, I used a wide variety of bibliographic sources. The list of training
 Those trainings are offered by large companies and Big players in AI. Below is the list of completion certifications:
  - [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing) (DeepLearning.AI & LAMINI)
  - [LLMOps](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing) (DeepLearning.AI & Google Cloud)
- - [LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
+ - [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/653c0853-4f9e-47b2-8fd0-c85499664c9a?usp=sharing)(DeepLearning.AI & LangChain)
 
 ## Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
