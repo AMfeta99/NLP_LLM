@@ -31,3 +31,8 @@ The repository contains:
   - Human/Model Alignment
   - Reinforcement Learning From Human Feedback (RLHF)
   - Model Self-Supervision with Constitutional AI
+  - Model optimizations to improve application performance
+  - Inference Challenges in LLMs (& Solutions)
+  - Chain-of-Thought (CoT) Prompting
+  - Program-Aided Language (PAL) Models
+  - ReAct - Combining Reasoning and Action
