@@ -2,7 +2,7 @@
 
 The repository contains:
 ## Code Assignments:
- - Summarize_dialogue Lab (Week 1) - Dialogue summarization task using generative AI. Perform prompt engineering (compare zero shot, one shot, and few shot inferences).
+ - [Summarize_dialogue Lab](https://github.com/AMfeta99/NLP_LLM/blob/main/Generative%20AI%20with%20Large%20Language%20Models/w1/Lab_1_summarize_dialogue.ipynb) (Week 1) - Dialogue summarization task using generative AI. Perform prompt engineering (compare zero shot, one shot, and few shot inferences).
  - Fine-Tuning Lab (Week 2) - Instruction Fine-Tuning using LoRA. Perform PEFT fine-tuning, evaluate the resulting model.
  - RLHF Lab (Week 3)- Reinforcement Learning From Human Feedback to align LLMs. Fine-tune FLAN-T5 with RL to generate more-positive summaries.
 
