@@ -27,7 +27,7 @@ The repository contains:
   - Benchmarks 
   - Parameter Efficient Fine Tuning (PEFT)
 
-[Week 3]():
+[Week 3](https://github.com/AMfeta99/NLP_LLM/blob/main/Generative%20AI%20with%20Large%20Language%20Models/w3/GenAI_LLM_3.pdf):
   - Human/Model Alignment
   - Reinforcement Learning From Human Feedback (RLHF)
   - Model Self-Supervision with Constitutional AI
