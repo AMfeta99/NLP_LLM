@@ -2,10 +2,9 @@
 This repository is dedicated to projects and some theoretical material that I used to get into the areas of NLP and LLM in a practical/efficient way.
 
 ## Index:
-  - [How did I start?](#Master_Thesis)
+  -  [How did I start?](#Master_Thesis)
   - [Courses](#Courses)
   - [Hot Topics](#Relevant/Hot_Topics)
-  - [Usage](#usage)
   - [Challenges](#Challenges)
   - [Projects](#Projects)
   - [Disclaimer](#Disclaimer)
