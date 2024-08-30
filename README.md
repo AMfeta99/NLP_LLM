@@ -28,7 +28,7 @@ This repository includes the exploration of some topics, tools and techniques cu
 ####   2 - Large Language Model Operations
 ####   3 - Retrieval Augmented Generation (RAG)
 
-To do this, I used a wide variety of bibliographic sources. The list of trainings I took related to thoses topics and the respective objectives can be detailed in [Link](https://github.com/AMfeta99/NLP_LLM/tree/main/Relevante%5CHot_Topics).
+To do this, I used a wide variety of bibliographic sources. The list of trainings I took related to thoses topics and the respective objectives can be detailed in [Link](https://github.com/AMfeta99/NLP_LLM/tree/main/Relevant_Hot_Topics).
 
 Those trainings are offered by large companies and Big players in AI. Below is the list of completion certifications:
  - [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing) (DeepLearning.AI & LAMINI)
