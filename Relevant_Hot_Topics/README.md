@@ -26,7 +26,7 @@ This folder is dedicated to some topics, tools and techniques currently widely u
 ##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/653c0853-4f9e-47b2-8fd0-c85499664c9a?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
 
 ### 4 - AI Agents
-[AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)(DeepLearning.AI, LangChain & Tavily)
+[AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) (DeepLearning.AI, LangChain & Tavily)
  - Build an agent from scratch and understand the division of tasks between the LLM.
  - Implement the agent you built using LangGraph.
  - Implement agentic search for structured answers and enable state management for conversation continuity and persistence.
