@@ -1,6 +1,13 @@
 # Natural Language processing & Large Language Models | NLP & LLM
 This repository is dedicated to projects and some theoretical material that I used to get into the areas of NLP and LLM in a practical/efficient way.
 
+- [Master Thesis](#Master_Thesis)
+- [Game Modes](#Game_modes)
+- [Setup](#Setup)
+- [Usage](#usage)
+- [Challenges](#Challenges)
+- [Repository_files](#Repository_files)
+- [Acknowledgements](#Acknowledgements)
 
 ## Master Thesis
 My NLP journey started in 2021-2022 during the development of my master's thesis entitled:
