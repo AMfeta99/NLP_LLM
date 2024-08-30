@@ -1,11 +1,10 @@
 # Natural Language processing & Large Language Models | NLP & LLM
 This repository is dedicated to projects and some theoretical material that I used to get into the areas of NLP and LLM in a practical/efficient way.
 
-## Index:
-  -  [How did I start?](#Master_Thesis)
+### Index:
+  - [How did I start?](#Master_Thesis)
   - [Courses](#Courses)
   - [Hot Topics](#Relevant/Hot_Topics)
-  - [Challenges](#Challenges)
   - [Projects](#Projects)
   - [Disclaimer](#Disclaimer)
 
@@ -45,7 +44,7 @@ Those trainings are offered by large companies and Big players in AI. Below is t
  - [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/c5673169-1ca1-4e5f-8644-a6e6aa5cb1ec?usp=sharing) (DeepLearning.AI, LangChain & Tavily)
 
 ## Disclaimer
-Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
+Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud, Tavily and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
 
 ## Projects:
