@@ -1,7 +1,7 @@
 # Natural Language processing & Large Language Models | NLP & LLM
 This repository is dedicated to projects and some theoretical material that I used to get into the areas of NLP and LLM in a practical/efficient way.
 
-- [How it started](#Master_Thesis)
+-- [How did I start?](#Master_Thesis)
 - [Courses](#Courses)
 - [Hot Topics](#Relevant/Hot_Topics)
 - [Usage](#usage)
