@@ -1,13 +1,14 @@
 # Natural Language processing & Large Language Models | NLP & LLM
 This repository is dedicated to projects and some theoretical material that I used to get into the areas of NLP and LLM in a practical/efficient way.
 
--- [How did I start?](#Master_Thesis)
-- [Courses](#Courses)
-- [Hot Topics](#Relevant/Hot_Topics)
-- [Usage](#usage)
-- [Challenges](#Challenges)
-- [Projects](#Projects)
-- [Disclaimer](#Disclaimer)
+## Index:
+  - [How did I start?](#Master_Thesis)
+  - [Courses](#Courses)
+  - [Hot Topics](#Relevant/Hot_Topics)
+  - [Usage](#usage)
+  - [Challenges](#Challenges)
+  - [Projects](#Projects)
+  - [Disclaimer](#Disclaimer)
 
 ## Master_Thesis
 My NLP journey started in 2021-2022 during the development of my master's thesis entitled:
