@@ -6,7 +6,6 @@ This repository is dedicated to projects and some theoretical material that I us
   - [Courses](#Courses)
   - [Hot Topics](#Relevant/Hot_Topics)
   - [Projects](#Projects)
-  - [Disclaimer](#Disclaimer)
 
 ## Master_Thesis
 My NLP journey started in 2021-2022 during the development of my master's thesis entitled:
@@ -43,7 +42,7 @@ Those trainings are offered by large companies and Big players in AI. Below is t
  - [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/653c0853-4f9e-47b2-8fd0-c85499664c9a?usp=sharing)(DeepLearning.AI & LangChain)
  - [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/c5673169-1ca1-4e5f-8644-a6e6aa5cb1ec?usp=sharing) (DeepLearning.AI, LangChain & Tavily)
 
-## Disclaimer
+### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud, Tavily and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
 
