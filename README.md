@@ -1,15 +1,15 @@
 # Natural Language processing & Large Language Models | NLP & LLM
 This repository is dedicated to projects and some theoretical material that I used to get into the areas of NLP and LLM in a practical/efficient way.
 
-- [Master Thesis](#Master_Thesis)
-- [Game Modes](#Game_modes)
-- [Setup](#Setup)
+- [How it started](#Master_Thesis)
+- [Courses](#Courses)
+- [Hot Topics](#Relevant/Hot_Topics)
 - [Usage](#usage)
 - [Challenges](#Challenges)
-- [Repository_files](#Repository_files)
-- [Acknowledgements](#Acknowledgements)
+- [Projects](#Projects)
+- [Disclaimer](#Disclaimer)
 
-## Master Thesis
+## Master_Thesis
 My NLP journey started in 2021-2022 during the development of my master's thesis entitled:
 ### ["Learning to write medical reports from EEG data"](https://repositorio-aberto.up.pt/handle/10216/144617) 
 This aims the development of methods for clinical report writing based on EEG signals, adapting current NLP techniques and state-of-the-art captioning approaches to image, signal and video. 
@@ -29,7 +29,7 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Challenges and opportunities that generative AI creates for businesses after hearing stories from industry researchers and practitioners.
 #### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [More Info](https://www.coursera.org/account/accomplishments/verify/Y2C2XJL6JMPW)
 
-## Relevant/Hot Topics
+## Relevant/Hot_Topics
 This repository includes the exploration of some topics, tools and techniques currently widely used in NLP and LLM projects or that are in the spotlight in the AI community, such as: 
 ####   1 - Finetuning LLMs
 ####   2 - Large Language Model Operations
