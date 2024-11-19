@@ -13,7 +13,7 @@ This repository explores various topics, tools, and techniques that are currentl
  - Key Principles of AI Agent Systems: Explore concepts like role assignment, memory management, tool integration, task focus, error handling, and agent cooperation.
  - Use the open-source library (CrewAI) to automate common business processes, including resume tailoring, customer support, event planning, and financial analysis.
  - Building multi-agent systems to streamline tasks and improve efficiency in real-world scenarios.
-##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing); [More Info] (https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
 
    
 ### [Multi_AI.Agents_Advanced_UC](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing) (DeepLearning.AI, & CrewAI)
@@ -21,7 +21,7 @@ This repository explores various topics, tools, and techniques that are currentl
  - Practical Applications: Create systems for automated project planning, lead scoring, data reporting, customer support analysis, and large-scale content creation.
  - Optimization and Integration: Master techniques for performance testing, human feedback-based training, and connecting multi-agent systems with internal and external systems.
  - Real-World Insights: Gain industry perspective with a bonus interview on deploying agentic workflows and hands-on use cases involving LLMs and multi-agent collaboration.
-##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing); [More Info] (https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
 
 
 ## Disclaimer
