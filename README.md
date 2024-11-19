@@ -27,12 +27,11 @@ Since then, interest and popularity in the area has been growing, particularly d
   - Challenges and opportunities that generative AI creates for businesses after hearing stories from industry researchers and practitioners.
 #### Course Certificate: [Link](https://www.coursera.org/account/accomplishments/certificate/Y2C2XJL6JMPW); [More Info](https://www.coursera.org/account/accomplishments/verify/Y2C2XJL6JMPW)
 
-## Relevant/Hot_Topics
+## NLP_LLM Relevant/Hot_Topics
 This repository includes the exploration of some topics, tools and techniques currently widely used in NLP and LLM projects or that are in the spotlight in the AI community, such as: 
 ####   1 - Finetuning LLMs
 ####   2 - Large Language Model Operations
 ####   3 - Retrieval Augmented Generation (RAG)
-####   4 - AI Agents 
 
 To do this, I used a wide variety of bibliographic sources. The list of trainings I took related to thoses topics and the respective objectives can be detailed in [Link](https://github.com/AMfeta99/NLP_LLM/tree/main/Relevant_Hot_Topics).
 
@@ -40,7 +39,14 @@ Those trainings are offered by large companies and Big players in AI. Below is t
  - [Finetuning Large Language Models](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing) (DeepLearning.AI & LAMINI)
  - [LLMOps](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing) (DeepLearning.AI & Google Cloud)
  - [LangChain Chat with Your Data](https://learn.deeplearning.ai/accomplishments/653c0853-4f9e-47b2-8fd0-c85499664c9a?usp=sharing)(DeepLearning.AI & LangChain)
+
+
+## AI Agents and Multi-Agents
+
  - [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/c5673169-1ca1-4e5f-8644-a6e6aa5cb1ec?usp=sharing) (DeepLearning.AI, LangChain & Tavily)
+ - [Multi_AI.Agent_Systems](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing) (DeepLearning.AI, & CrewAI)
+ - [Multi_AI.Agents_Advanced_UC](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing) (DeepLearning.AI, & CrewAI)
+
 
 ### Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, LAMINI, AWS, Google Cloud, Tavily and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
