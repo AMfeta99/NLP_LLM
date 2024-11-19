@@ -1,37 +1,27 @@
-# Hot Topics
-This folder is dedicated to some topics, tools and techniques currently widely used in NLP and LLM projects or that are in the spotlight in the AI community.
+# AI Agents and Multi-Agents Topics
+This repository explores various topics, tools, and techniques that are currently widely used in LLM (Large Language Model) projects or are gaining significant attention in the AI community. One key area of focus is AI Agents, which involve the integration of multiple LLMs to perform specific tasks collaboratively and enhance overall performance.
 
-
-## Relevant/Hot Topics
-### 1 - Finetuning LLMs
-[Finetuning Large Language Models](https://www.coursera.org/programs/bosch-learning-program-8hold/projects/finetuning-large-language-models-project?source=search) (DeepLearning.AI & LAMINI)
-  -  Essential finetuning concepts and how to train a large language model.
-  -  Understand how finetuning differs from prompt engineering, and when to use both.
-  -  Practical experience with real data sets, and how to use techniques for projects.
-##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/0478e5ad-9140-472d-a957-9fcd441a2073?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
-
-### 2 - Large Language Model Operations
-[LLMOps](https://www.deeplearning.ai/short-courses/llmops/?utm_campaign=googlecloud3-launch&utm_medium=announcement&utm_source=discourse) (DeepLearning.AI & Google Cloud)
-  - Retrieve and transform training data for supervised fine-tuning of an LLM.
-  - Version data and tuned models to track your tuning experiments.
-  - Configure an open-source supervised tuning pipeline and then execute that pipeline to train and then deploy a tuned LLM.
-  - Output and study safety scores to responsibly monitor and filter your LLM application’s behavior.
-  - Tun and deploy LLM. Practice with Tools as BigQuery data warehouse, the open-source Kubeflow Pipelines, and Google Cloud.
-##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/10ca5b0b-28b4-42e2-a909-5b6e6a81c8d2?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/llmops/)
-
-### 3 - Retrieval Augmented Generation (RAG)
-[LangChain Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) (DeepLearning.AI & LangChain)
-  - Retrieval Augmented Generation (RAG), a common LLM application that retrieves contextual documents from an external dataset.
-  - Building a chatbot that responds to queries based on the content of your documents, rather than the information it has learned in training.
-##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/653c0853-4f9e-47b2-8fd0-c85499664c9a?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
-
-### 4 - AI Agents
-[AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) (DeepLearning.AI, LangChain & Tavily)
+### [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) (DeepLearning.AI, LangChain & Tavily)
  - Build an agent from scratch and understand the division of tasks between the LLM.
  - Implement the agent you built using LangGraph.
  - Implement agentic search for structured answers and enable state management for conversation continuity and persistence.
  - Incorporate Human-in-the-Loop in agents and develop a system to automate the essay-writing process, mimicking a researcher's workflow.
 ##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/c5673169-1ca1-4e5f-8644-a6e6aa5cb1ec?usp=sharing); [More Info](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+
+### [Multi_AI.Agent_Systems](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing) (DeepLearning.AI, & CrewAI)
+ - Design and Organize AI Agent: Create and manage a team of AI agents that collaborate to perform complex, multi-step tasks more effectively than a single LLM.
+ - Key Principles of AI Agent Systems: Explore concepts like role assignment, memory management, tool integration, task focus, error handling, and agent cooperation.
+ - Use the open-source library (CrewAI) to automate common business processes, including resume tailoring, customer support, event planning, and financial analysis.
+ - Building multi-agent systems to streamline tasks and improve efficiency in real-world scenarios.
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/69d70f04-ea1b-4eb3-b21a-ef3194434510?usp=sharing); [More Info] (https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+
+   
+### [Multi_AI.Agents_Advanced_UC](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing) (DeepLearning.AI, & CrewAI)
+ - Build Multi-Agent Systems: Design and deploy agent-based workflows that handle complex tasks efficiently by integrating external tools, caching, memory, and guardrails.
+ - Practical Applications: Create systems for automated project planning, lead scoring, data reporting, customer support analysis, and large-scale content creation.
+ - Optimization and Integration: Master techniques for performance testing, human feedback-based training, and connecting multi-agent systems with internal and external systems.
+ - Real-World Insights: Gain industry perspective with a bonus interview on deploying agentic workflows and hands-on use cases involving LLMs and multi-agent collaboration.
+##### Course Certificate: [Link](https://learn.deeplearning.ai/accomplishments/481db1cf-eefd-4a97-ae70-1ecd6b9487d3?usp=sharing); [More Info] (https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
 
 
 ## Disclaimer
