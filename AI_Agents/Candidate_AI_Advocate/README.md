@@ -1,5 +1,8 @@
 # Candidate AI Advocate Project 
 
+![image](https://github.com/user-attachments/assets/e3c2da02-2590-4ad8-a3e0-30f1a0c24a25)
+
+
 This is a Supervisor-Led Multi-Agent System project fully implement with 
 open-source tools like LangChain, Pinecone, and Streamlit.
 
