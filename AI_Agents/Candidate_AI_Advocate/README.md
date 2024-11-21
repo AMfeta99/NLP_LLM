@@ -1,6 +1,7 @@
 # Candidate AI Advocate Project 
 
-![image](https://github.com/user-attachments/assets/e3c2da02-2590-4ad8-a3e0-30f1a0c24a25)
+![image](https://github.com/user-attachments/assets/854cd065-3913-4c15-8ab1-951aa5ecee2f)
+
 
 
 This is a Supervisor-Led Multi-Agent System project fully implement with 
