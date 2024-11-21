@@ -25,6 +25,11 @@ This repository explores various topics, tools, and techniques that are currentl
 ## Disclaimer
 Copyright of all materials in thoses courses belongs to DeepLearning.AI, CrewAI and LangChain and can only be used or distributed for educational purpose. You may not use or distribute them for commercial purposes.
 
+
+## Projects:
+Here are links to my AI-Agent projects: 
+- ### 
+
 ## Resources
   - https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=Pillar%20pages&utm_content=286795896&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
   - https://github.com/MalayAgr/generative-ai-with-llms-notes?tab=readme-ov-file
