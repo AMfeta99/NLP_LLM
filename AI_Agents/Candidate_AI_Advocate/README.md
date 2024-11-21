@@ -19,8 +19,7 @@ open-source tools like LangChain, Pinecone, and Streamlit.
    - Retrieves relevant information from the vector database based on queries.
 
 4. Q&A Agent:
-  - Answers recruiter queries using the retrieved information.
+   - Answers recruiter queries using the retrieved information.
 
 5. Justification Agent:
-  - Generates role-specific arguments using stored data and external sources 
-  like Google Custom Search API.
+   - Generates role-specific arguments using stored data and external sources like Google Custom Search API.
