@@ -9,6 +9,8 @@ Q&A Agent
 This agent answers specific recruiter queries based on retrieved knowledge.
 """
 
+from langchain.chat_models import ChatOpenAI
+
 class QAAgent:
     def __init__(self):
         self.llm = ChatOpenAI(model="gpt-4", temperature=0)

@@ -5,6 +5,8 @@ Created on Thu Nov 21 16:49:03 2024
 @author: zefin
 """
 
+from langchain.agents import Tool
+
 import IngestionAgent
 import KnowledgeBaseAgent
 import QAAgent
