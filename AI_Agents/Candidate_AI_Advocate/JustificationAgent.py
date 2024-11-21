@@ -8,6 +8,8 @@ Justification Agent
 This agent builds a compelling argument for the candidate’s suitability for the role.
 """
 
+from langchain.chat_models import ChatOpenAI
+
 class JustificationAgent:
     def __init__(self):
         self.llm = ChatOpenAI(model="gpt-4", temperature=0)
