@@ -28,7 +28,7 @@ Copyright of all materials in thoses courses belongs to DeepLearning.AI, CrewAI 
 
 ## Projects:
 Here are links to my AI-Agent projects: 
-- ### [Candidate AI Advocate]()
+- ### [Candidate AI Advocate](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/Candidate_AI_Advocate) (WIT)
 
 ## Resources
   - https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=Pillar%20pages&utm_content=286795896&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783
