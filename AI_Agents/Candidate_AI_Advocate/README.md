@@ -1,4 +1,4 @@
-# Candidate AI Advocate Project 
+# Candidate AI Advocate
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/854cd065-3913-4c15-8ab1-951aa5ecee2f" alt="AI_lawyer" style="width:75%";>
