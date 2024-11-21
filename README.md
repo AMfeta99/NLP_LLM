@@ -51,7 +51,7 @@ Since then, interest and popularity in the area has been growing, particularly d
 ## AI_Agents
 This repository explores various topics, tools, and techniques that are currently widely used in LLM (Large Language Model) projects or are gaining significant attention in the AI community. One key area of focus is AI Agents, which involve the integration of multiple LLMs to perform specific tasks collaboratively and enhance overall performance.
 
-To do this, I used a wide variety of bibliographic sources. The list of trainings I took related to thoses topics and the respective objectives can be detailed in [Link](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents).
+To do this, I used a wide variety of bibliographic sources. The list of trainings I took related to thoses topics and the related projects can be found on: [Link](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents).
 
 Those trainings are offered by large companies and Big players in AI. Below is the list of completion certifications:
  - [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/c5673169-1ca1-4e5f-8644-a6e6aa5cb1ec?usp=sharing) (DeepLearning.AI, LangChain & Tavily)
