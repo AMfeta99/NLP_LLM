@@ -30,4 +30,5 @@ open-source tools like LangChain, Pinecone, and Streamlit.
 ### 5. Justification Agent:
    - Generates role-specific arguments using stored data and external sources like Google Custom Search API.
 
-<!-- https://www.linkedin.com/pulse/pros-cons-using-ai-hiring-seesy -->
+<!-- https://www.linkedin.com/pulse/pros-cons-using-ai-hiring-seesy 
+https://www.youtube.com/watch?v=erUfLIi9OFM -->
