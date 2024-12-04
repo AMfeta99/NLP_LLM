@@ -31,4 +31,7 @@ open-source tools like LangChain, Pinecone, and Streamlit.
    - Generates role-specific arguments using stored data and external sources like Google Custom Search API.
 
 <!-- https://www.linkedin.com/pulse/pros-cons-using-ai-hiring-seesy 
-https://www.youtube.com/watch?v=erUfLIi9OFM -->
+https://www.youtube.com/watch?v=erUfLIi9OFM
+
+https://huggingface.co/learn/cookbook/multiagent_rag_system
+-->
