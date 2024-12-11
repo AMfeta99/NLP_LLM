@@ -44,7 +44,8 @@ Transformer Agents library was used for implementation of such system, providing
 ### Framework
 This Agent follows the **ReAct** framework combining **Reasoning + Acting (ReAct)** principles with code execution capabilities.
 
-https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/open-source-llms-as-agents/ReAct.png
+<img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/open-source-llms-as-agents/ReAct.png" alt="ReAct" style="width: 50%;">
+
 
 This type of agent operates by iteratively reasoning about the task, deciding on the necessary steps, and performing actions using external tools or executing code to achieve its goals.
 
@@ -106,7 +107,7 @@ Below are the final GIFs generated for the objects named 'Car,' 'Phone,' and 'Hu
 ### AI_Agent step-by-step Reasoning + Acting:
 To achieve the mentioned result, the AI agent uses reasoning to decide the actions to take and the tools to use. The following image demonstrates this process for generating the representative image of the object 'Car' from the past.
 
-![image_20241211_1402578ad29069-e2f6-471c-8ea1-6eea16f9d336](https://github.com/user-attachments/assets/166b16b7-6d8a-419b-a5ea-34e7ba17008d)
+<img src="https://github.com/user-attachments/assets/166b16b7-6d8a-419b-a5ea-34e7ba17008d" alt="output" style="width: 90%;">
 
 
 
