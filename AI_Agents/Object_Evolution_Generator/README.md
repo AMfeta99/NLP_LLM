@@ -60,12 +60,18 @@ This type of agent operates by iteratively reasoning about the task, deciding on
   - #### 1. Image Generation Tool
        - This tool uses the Hugging Face Inference API (Serverless) to generate images via Stable Diffusion.
          
-        image_generation_tool = load_tool("m-ric/text-to-image", cache=False)
+             #m-ric/text-to-image model generates images based on textual descriptions.
+             image_generation_tool = load_tool("m-ric/text-to-image", cache=False)
 
        - The tool is loaded directly from the Hugging Face Hub, providing seamless integration and functionality.
 
   - #### 2. Web Search Tool
        - This is a built-in tool that allows the agent to search and retrieve information from the web.
+         
+             #This tool allows the agent to search for and retrieve information from the web.
+             from transformers.agents.search import DuckDuckGoSearchTool
+             search_tool = DuckDuckGoSearchTool()
+          
        - It enables the agent to gather external knowledge to support its tasks.
 
 
