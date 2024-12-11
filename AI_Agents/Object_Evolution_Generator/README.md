@@ -28,7 +28,8 @@ TimeMetamorphy app was developed with Gradio. This is hosted by Hugging Face Spa
 
 ## Usage
 After the installation is ready, give it a try. To get started, you will be asked to enter: 
-1. A Object/Concept name
+1. A Object/Concept name:
+   
 ![image_20241211_1120271d8aed0f-3c5e-4659-b627-2c56986446d0](https://github.com/user-attachments/assets/97182213-b40a-4bee-a09b-7443f9b5b0e2)
 
 2. Click on "Generate Evolution"
