@@ -23,7 +23,9 @@ This project unveils these mysteries by offering a unique/magic lens that allows
   <figure style="margin: 10px; text-align: center;">
     <img src="phone_evolution.gif" alt="Phone Evolution" style="width: 300px;">
   </figure>
-  https://amfeta99-object-evolution-generator.hf.space/gradio_api/file=/tmp/gradio/e137e19163a0d5e9785ae84e4c8100c9ed22478e1c64a6218bd6c19a3c272bf3/Human_evolution.gif
+  <figure style="margin: 10px; text-align: center;">
+    <img src="https://amfeta99-object-evolution-generator.hf.space/gradio_api/file=/tmp/gradio/e137e19163a0d5e9785ae84e4c8100c9ed22478e1c64a6218bd6c19a3c272bf3/Human_evolution.gif" alt="Human Evolution" style="width: 300px;">
+  </figure>
 </div>
 
 
