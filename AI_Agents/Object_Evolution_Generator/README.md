@@ -9,34 +9,16 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 
 ### Index:
 
+<div >
+    <img src="car_evolution.gif" 
+         alt="Past Evolution">
+    <img src="car_evolution.gif" 
+         alt="Present Evolution">
+    <img src="car_evolution.gif" 
+         alt="Future Evolution">
+</div>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Side-by-Side GIFs</title>
-    <style>
-        .image-container {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-        }
-        .image-container img {
-            width: 25%;
-        }
-    </style>
-</head>
-<body>
-    <div class="image-container">
-        <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true" 
-             alt="Past Evolution">
-        <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true" 
-             alt="Present Evolution">
-        <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true" 
-             alt="Future Evolution">
-    </div>
-</body>
-</html>
+
 
 
 
