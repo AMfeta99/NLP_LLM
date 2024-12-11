@@ -46,14 +46,14 @@ This Agent follows the **ReAct** framework combining **Reasoning + Acting (ReAct
 
 This type of agent operates by iteratively reasoning about the task, deciding on the necessary steps, and performing actions using external tools or executing code to achieve its goals.
 
-#### 1. Code: 
-ReactCodeAgent can execute Python code or interact with code-related tools, allowing it to perform computational tasks, manipulate data, or even write and debug scripts as part of its workflow.
+  #### 1. Code: 
+  ReactCodeAgent can execute Python code or interact with code-related tools, allowing it to perform computational tasks, manipulate data, or even write and debug scripts as part of its workflow.
 
-#### 2. Tool Integration: 
-It can integrate with tools like web search engines, calculators, APIs, or custom modules to extend its capabilities beyond language-based reasoning.
+  #### 2. Tool Integration: 
+  It can integrate with tools like web search engines, calculators, APIs, or custom modules to extend its capabilities beyond language-based reasoning.
 
-#### 3. Iterative Approach: 
-The agent evaluates intermediate results during execution and adapts its actions accordingly to ensure it converges on a solution effectively.
+  #### 3. Iterative Approach: 
+  The agent evaluates intermediate results during execution and adapts its actions accordingly to ensure it converges on a solution effectively.
 
 
 ### Tools
