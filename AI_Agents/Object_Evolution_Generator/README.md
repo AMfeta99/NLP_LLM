@@ -37,6 +37,23 @@ After the installation is ready, give it a try. To get started, you will be aske
   
 
 ## Methods
+This App is an AI_agent based system, meaning it was built around a LLM, designed to extend the capabilities of the LLM by allowing it to use specialized tools. These tools are integrated through carefully crafted prompts and structured output parsing, enabling the LLM to address tasks it wouldn’t handle effectively on its own.
+
+Transformer Agents library was used for implementation of such system, providing building block to customized the Agent. 
+
+### Framework
+This Agent follows the ReAct framework combining Reasoning + Acting (ReAct) principles with code execution capabilities.
+This type of agent operates by iteratively reasoning about the task, deciding on the necessary steps, and performing actions using external tools or executing code to achieve its goals.
+
+    - Code: ReactCodeAgent can execute Python code or interact with code-related tools, allowing it to perform computational tasks, manipulate data, or even write and debug scripts as part of its workflow.
+
+    - Tool Integration: It can integrate with tools like web search engines, calculators, APIs, or custom modules to extend its capabilities beyond language-based reasoning.
+
+    - Iterative Approach: The agent evaluates intermediate results during execution and adapts its actions accordingly to ensure it converges on a solution effectively.
+
+### Tools
+
+
 
 ## Results
 <div style="display: flex; justify-content: center; align-items: flex-start;">
