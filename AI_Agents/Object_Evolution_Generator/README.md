@@ -12,20 +12,14 @@ This project unveils these mysteries by offering a unique/magic lens that allows
   <div>
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Past Evolution" style="width: 150px;">
-    <br>
-    <em style="text-align: center; display: block;">Past Evolution</em>
   </div>
   <div>
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Present Evolution" style="width: 150px;">
-    <br>
-    <em style="text-align: center; display: block;">Present Evolution</em>
   </div>
   <div>
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Future Evolution" style="width: 150px;">
-    <br>
-    <em style="text-align: center; display: block;">Future Evolution</em>
   </div>
 </div>
 
