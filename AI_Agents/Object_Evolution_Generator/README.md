@@ -84,6 +84,8 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 
 
 ## Results
+![image_20241211_1402578ad29069-e2f6-471c-8ea1-6eea16f9d336](https://github.com/user-attachments/assets/166b16b7-6d8a-419b-a5ea-34e7ba17008d)
+
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
     <img src="car_evolution.gif" alt="Car Evolution" style="width: 330px;">
