@@ -9,7 +9,7 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 
 ### Index:
 <p align="center">
-  <img src="AI_Agents/Object_Evolution_Generator/car_evolution.gif" alt="Dalli" style="width:70%";>
+  <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" alt="Dalli" style="width:70%";>
   <br>
   <em></em>
 </p>
