@@ -18,13 +18,13 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
-    <img src="car_evolution.gif" alt="Car Evolution" style="width: 350px;">
+    <img src="car_evolution.gif" alt="Car Evolution" style="width: 330px;">
   </figure>
   <figure style="margin: 10px; text-align: center;">
-    <img src="phone_evolution.gif" alt="Phone Evolution" style="width: 350px;">
+    <img src="phone_evolution.gif" alt="Phone Evolution" style="width: 330px;">
   </figure>
   <figure style="margin: 10px; text-align: center;">
-    <img src="https://amfeta99-object-evolution-generator.hf.space/gradio_api/file=/tmp/gradio/e137e19163a0d5e9785ae84e4c8100c9ed22478e1c64a6218bd6c19a3c272bf3/Human_evolution.gif" alt="Human Evolution" style="width: 350px;">
+    <img src="https://amfeta99-object-evolution-generator.hf.space/gradio_api/file=/tmp/gradio/e137e19163a0d5e9785ae84e4c8100c9ed22478e1c64a6218bd6c19a3c272bf3/Human_evolution.gif" alt="Human Evolution" style="width: 330px;">
   </figure>
 </div>
 
