@@ -10,10 +10,10 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 ### Index:
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
-    <img src="car_evolution.gif" alt="Past Evolution" style="width: 25%;">
+    <img src="car_evolution.gif" alt="Past Evolution" style="width: 500px;">
   </figure>
   <figure style="margin: 10px; text-align: center;">
-    <img src="phone_evolution.gif" alt="Present Evolution" style="width: 25%;">
+    <img src="phone_evolution.gif" alt="Present Evolution" style="width: 500px;">
   </figure>
 </div>
 
