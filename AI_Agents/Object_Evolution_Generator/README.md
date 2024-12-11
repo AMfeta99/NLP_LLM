@@ -8,26 +8,27 @@ Isn’t it amazing to see how much things have changed and evolved over time? An
 This project unveils these mysteries by offering a unique/magic lens that allows us "time travel". Powered by AI agents equipped with cutting-edge tools, it provides the superpower to explore the past, witness the present, and dream up the future like never before.  
 
 ### Index:
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div>
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Past Evolution" style="width: 150px;">
     <br>
-    <em>Past Evolution</em>
+    <em style="text-align: center; display: block;">Past Evolution</em>
   </div>
-  <div style="text-align: center;">
+  <div>
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Present Evolution" style="width: 150px;">
     <br>
-    <em>Present Evolution</em>
+    <em style="text-align: center; display: block;">Present Evolution</em>
   </div>
-  <div style="text-align: center;">
+  <div>
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Future Evolution" style="width: 150px;">
     <br>
-    <em>Future Evolution</em>
+    <em style="text-align: center; display: block;">Future Evolution</em>
   </div>
 </div>
+
 
 
 
