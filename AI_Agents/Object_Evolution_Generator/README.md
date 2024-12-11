@@ -73,14 +73,14 @@ This type of agent operates by iteratively reasoning about the task, deciding on
        - It enables the agent to gather external knowledge to support its tasks.
 
 ### LLM & Build Agent
-- #### 1. LLM Selection:
-We Select a LLM fine-tuned for instruction-following tasks, Qwen2.5-72B-Instruct 
+  - #### 1. LLM Selection:
+       We Select a LLM fine-tuned for instruction-following tasks, Qwen2.5-72B-Instruct 
 
-    llm_engine = HfApiEngine("Qwen/Qwen2.5-72B-Instruct") 
+        llm_engine = HfApiEngine("Qwen/Qwen2.5-72B-Instruct") 
    
-- #### 2. Initialize the agent with tools
+  - #### 2. Initialize the agent with tools
 
-    agent = ReactCodeAgent(tools=[image_generation_tool, search_tool], llm_engine=llm_engine)
+        agent = ReactCodeAgent(tools=[image_generation_tool, search_tool], llm_engine=llm_engine)
 
 
 ## Results
