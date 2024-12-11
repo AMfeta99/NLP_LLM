@@ -11,12 +11,10 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
     <img src="car_evolution.gif" alt="Past Evolution" style="width: 200px;">
-    <br>
-    <figcaption style="margin-top: 5px;">Car Evolution</figcaption>
+    <figcaption style="margin-top: 5px;"><br> Car Evolution</figcaption>
   </figure>
   <figure style="margin: 10px; text-align: center;">
     <img src="phone_evolution.gif" alt="Present Evolution" style="width: 200px;">
-     <br>
     <figcaption style="margin-top: 5px;">Phone Evolution</figcaption>
   </figure>
 </div>
