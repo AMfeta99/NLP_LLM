@@ -44,7 +44,12 @@ Transformer Agents library was used for implementation of such system, providing
 ### Framework
 This Agent follows the **ReAct** framework combining **Reasoning + Acting (ReAct)** principles with code execution capabilities.
 
-<img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/open-source-llms-as-agents/ReAct.png" alt="ReAct" style="width: 50%;">
+<p align="center">
+  <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/open-source-llms-as-agents/ReAct.png" alt="ReAct" style="width: 50%;">
+  <br>
+  <em></em>
+</p>
+
 
 
 This type of agent operates by iteratively reasoning about the task, deciding on the necessary steps, and performing actions using external tools or executing code to achieve its goals.
