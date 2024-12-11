@@ -44,6 +44,8 @@ Transformer Agents library was used for implementation of such system, providing
 ### Framework
 This Agent follows the **ReAct** framework combining **Reasoning + Acting (ReAct)** principles with code execution capabilities.
 
+https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/open-source-llms-as-agents/ReAct.png
+
 This type of agent operates by iteratively reasoning about the task, deciding on the necessary steps, and performing actions using external tools or executing code to achieve its goals.
 
   - #### 1. Code: 
@@ -84,8 +86,10 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 
 
 ## Results
+### AI_Agent step-by-step Reasoning + Acting:
 ![image_20241211_1402578ad29069-e2f6-471c-8ea1-6eea16f9d336](https://github.com/user-attachments/assets/166b16b7-6d8a-419b-a5ea-34e7ba17008d)
 
+### Gif examples/results
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
     <img src="car_evolution.gif" alt="Car Evolution" style="width: 330px;">
@@ -117,6 +121,8 @@ Methods/Functions:
 - [Hugging_Face](https://huggingface.co/learn/cookbook/agents) by Aymeric Roucher
 - [Tranformer_Agent library](https://huggingface.co/docs/transformers/en/agents)
 - [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/) September 2024, by Qwen Team
+- ReAct framework (Yao et al., 2022)
+- [Open-source LLMs as LangChain Agents](https://huggingface.co/blog/open-source-llms-as-agents) by Aymeric Roucher's, Joffrey THOMAS and Andrew Reed
 
 
 
