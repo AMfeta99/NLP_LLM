@@ -59,6 +59,9 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 ### Tools
   - #### 1. Image Generation Tool
        - This tool uses the Hugging Face Inference API (Serverless) to generate images via Stable Diffusion.
+         
+        image_generation_tool = load_tool("m-ric/text-to-image", cache=False)
+
        - The tool is loaded directly from the Hugging Face Hub, providing seamless integration and functionality.
 
   - #### 2. Web Search Tool
