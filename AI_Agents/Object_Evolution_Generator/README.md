@@ -8,14 +8,14 @@ Isn’t it amazing to see how much things have changed and evolved over time? An
 This project unveils these mysteries by offering a unique/magic lens that allows us "time travel". Powered by AI agents equipped with cutting-edge tools, it provides the superpower to explore the past, witness the present, and dream up the future like never before.  
 
 ### Index:
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
-    <img src="car_evolution.gif" alt="Car Evolution" style="width: 200px;">
-    <figcaption>Past Evolution</figcaption>
+    <img src="car_evolution.gif" alt="Past Evolution" style="width: 200px;">
+    <figcaption style="margin-top: 5px;">Car Evolution</figcaption>
   </figure>
   <figure style="margin: 10px; text-align: center;">
-    <img src="phone_evolution.gif" alt="Phone Evolution" style="width: 200px;">
-    <figcaption>Present Evolution</figcaption>
+    <img src="phone_evolution.gif" alt="Present Evolution" style="width: 200px;">
+    <figcaption style="margin-top: 5px;">Phone Evolution</figcaption>
   </figure>
 </div>
 
