@@ -10,12 +10,42 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 ### Index:
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true" 
-         alt="Past Evolution" style="width: 25%;">
+         alt="car Evolution" style="width: 25%;">
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true"  
          alt="Present Evolution" style="width: 25%;">
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true"  
          alt="Future Evolution" style="width: 25%;">
 </div>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Side-by-Side GIFs</title>
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .image-container img {
+            width: 25%; /* Adjust size as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+             alt="Past Evolution">
+        <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+             alt="Present Evolution">
+        <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+             alt="Future Evolution">
+    </div>
+</body>
+</html>
+
 
 
 
