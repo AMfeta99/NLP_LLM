@@ -86,10 +86,10 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 
 
 ## Results
-### AI_Agent step-by-step Reasoning + Acting:
-![image_20241211_1402578ad29069-e2f6-471c-8ea1-6eea16f9d336](https://github.com/user-attachments/assets/166b16b7-6d8a-419b-a5ea-34e7ba17008d)
 
 ### Gif examples/results
+Below are the final GIFs generated for the objects named 'Car,' 'Phone,' and 'Human'.
+
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
     <img src="car_evolution.gif" alt="Car Evolution" style="width: 330px;">
@@ -101,6 +101,14 @@ This type of agent operates by iteratively reasoning about the task, deciding on
     <img src="https://amfeta99-object-evolution-generator.hf.space/gradio_api/file=/tmp/gradio/e137e19163a0d5e9785ae84e4c8100c9ed22478e1c64a6218bd6c19a3c272bf3/Human_evolution.gif" alt="Human Evolution" style="width: 330px;">
   </figure>
 </div>
+
+
+### AI_Agent step-by-step Reasoning + Acting:
+To achieve the mentioned result, the AI agent uses reasoning to decide the actions to take and the tools to use. The following image demonstrates this process for generating the representative image of the object 'Car' from the past.
+
+![image_20241211_1402578ad29069-e2f6-471c-8ea1-6eea16f9d336](https://github.com/user-attachments/assets/166b16b7-6d8a-419b-a5ea-34e7ba17008d)
+
+
 
 ## Repository_files
   - [requirements.txt](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/Object_Evolution_Generator/requirements.txt) (text file with a list the packages used)
