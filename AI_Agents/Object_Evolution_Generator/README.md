@@ -74,7 +74,7 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 
 ### LLM & Build Agent
   - #### 1. LLM Selection:
-       We Select a LLM fine-tuned for instruction-following tasks, Qwen2.5-72B-Instruct 
+       We Select a LLM fine-tuned for instruction-following tasks, **Qwen2.5-72B-Instruct** 
 
         llm_engine = HfApiEngine("Qwen/Qwen2.5-72B-Instruct") 
    
@@ -97,6 +97,19 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 </div>
 
 ## Repository_files
+  - [requirements.txt](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/Object_Evolution_Generator/requirements.txt) (text file with a list the packages used)
+  - [APP](https://github.com/AMfeta99/LLM-vs.-Human-Minds/tree/main/photos) (folder with some screenshots of the games)
+
+Class/Method Files:
+
+  - [Main.py](https://github.com/AMfeta99/LLM-vs.-Human-Minds/blob/main/Main.py) (Main file, initialize/configure the game, allow selection of game options)
+  
+  - [Init_methods.py](https://github.com/AMfeta99/LLM-vs.-Human-Minds/blob/main/Init_methods.py) (methods for game configuration)
+  
+  - [Player.py](https://github.com/AMfeta99/LLM-vs.-Human-Minds/blob/main/Player.py) (Player class, implements player's roles, actions, and prompts to perform while playing)
+  
+  - [Game.py](https://github.com/AMfeta99/LLM-vs.-Human-Minds/blob/main/Game.py) (Game class manages the overall flow of the game, determining which player should take action at each stage etc)
+
 
 ## Acknowledgements
 - Santiago Valdarrama. (2024). [llm](https://github.com/svpino/llm/tree/main/guessing). GitHub, who contributed significantly to the idealization of the project.
