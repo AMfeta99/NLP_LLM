@@ -12,8 +12,8 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 <div >
     <img src="car_evolution.gif" 
          alt="Past Evolution", style="width: 25%";>
-    <img src="car_evolution.gif" 
-         alt="Present Evolution",  style="width: 25%";>
+    <img src="phone_evolution.gif" 
+         alt="Present Evolution", style="width: 25%";>
     <img src="car_evolution.gif" 
          alt="Future Evolution",  style="width: 25%";>
 </div>
