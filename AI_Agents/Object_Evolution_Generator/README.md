@@ -99,7 +99,7 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 ## Repository_files
   - [requirements.txt](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/Object_Evolution_Generator/requirements.txt) (text file with a list the packages used)
   - [app.py](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/Object_Evolution_Generator/app.py)(Main file, containing all functions runnable app)
-  - [AI_AGENT_Object_Evolution_Generator.ipynb](https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/AI_AGENT_Object_Evolution_Generator.ipynb) (Jupiter Notebook Proof of Concept (PoC) for an AI Agent that generate an image based on a prompt, using search+image_gen tool. Extention the PoC to the an object evolution generator system, by generating an image for past/present/future)
+  - [AI_AGENT_Object_Evolution_Generator.ipynb](https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/AI_AGENT_Object_Evolution_Generator.ipynb) (Proof of Concept (PoC) of AI Agent that generate an image based on a prompt, using search+image_gen tool. Extention the PoC to the an object evolution generator system, by generating an image for past/present/future)
 
 
 The AI Agent generates an image based on a prompt and a search query
@@ -111,16 +111,11 @@ Methods/Functions:
 
 
 ## Acknowledgements
-- [Ollama](https://ollama.com/). Source of llm models.
-- [OpenAi API](https://openai.com/index/openai-api/). Source of llm models.
-- [Medium](https://medium.com/@GPTPlus/ai-in-human-robot-interaction-884ef04bdd88). repository img
+- [Text-To-Image_tool](https://huggingface.co/spaces/m-ric/text-to-image/tree/main) by Aymeric Roucher
+- [Hugging_Face](https://huggingface.co/learn/cookbook/agents) by Aymeric Roucher
+- [Tranformer_Agent library](https://huggingface.co/docs/transformers/en/agents)
+- [Qwen2.5: A Party of Foundation Models](https://qwenlm.github.io/blog/qwen2.5/) September 2024, by Qwen Team
 
 
 
-
-
-
-
-
-[APP](https://huggingface.co/spaces/AMfeta99/Object_Evolution_Generator)
 
