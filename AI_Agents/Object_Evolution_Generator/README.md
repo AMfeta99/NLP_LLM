@@ -44,7 +44,13 @@ After the installation is ready, give it a try. To get started, you will be aske
   </figure>
 </div>
 
+## Repository_files
 
+## Acknowledgements
+- Santiago Valdarrama. (2024). [llm](https://github.com/svpino/llm/tree/main/guessing). GitHub, who contributed significantly to the idealization of the project.
+- [Ollama](https://ollama.com/). Source of llm models.
+- [OpenAi API](https://openai.com/index/openai-api/). Source of llm models.
+- [Medium](https://medium.com/@GPTPlus/ai-in-human-robot-interaction-884ef04bdd88). repository img
 
 
 
