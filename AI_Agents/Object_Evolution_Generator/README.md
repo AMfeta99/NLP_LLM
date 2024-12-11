@@ -11,15 +11,11 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-direction: row;">
   <div>
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
-         alt="Past Evolution" style="width: 150px;">
-  </div>
-  <div>
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
-         alt="Present Evolution" style="width: 150px;">
-  </div>
-  <div>
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
-         alt="Future Evolution" style="width: 150px;">
+         alt="Past Evolution" style="width: 30%;">
+        <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+         alt="Present Evolution" style="width: 30%;">
+        <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+         alt="Future Evolution" style="width: 30%;">
   </div>
 </div>
 
