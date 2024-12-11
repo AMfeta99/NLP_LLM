@@ -16,13 +16,13 @@ This project unveils these mysteries by offering a unique/magic lens that allows
     <em>Car Evolution</em>
   </div>
   <div style="text-align: center;">
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution_present.gif" 
+    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Present Evolution" style="width: 30%;">
     <br>
     <em>Present Evolution</em>
   </div>
   <div style="text-align: center;">
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution_future.gif" 
+    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Future Evolution" style="width: 30%;">
     <br>
     <em>Future Evolution</em>
