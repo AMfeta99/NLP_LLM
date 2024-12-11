@@ -8,16 +8,8 @@ Isn’t it amazing to see how much things have changed and evolved over time? An
 This project unveils these mysteries by offering a unique/magic lens that allows us "time travel". Powered by AI agents equipped with cutting-edge tools, it provides the superpower to explore the past, witness the present, and dream up the future like never before.  
 
 ### Index:
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true" 
-         alt="car Evolution" style="width: 25%;">
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true"  
-         alt="Present Evolution" style="width: 25%;">
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true"  
-         alt="Future Evolution" style="width: 25%;">
-</div>
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,17 +22,17 @@ This project unveils these mysteries by offering a unique/magic lens that allows
             align-items: center;
         }
         .image-container img {
-            width: 25%; /* Adjust size as needed */
+            width: 25%;
         }
     </style>
 </head>
 <body>
     <div class="image-container">
-        <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+        <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true" 
              alt="Past Evolution">
-        <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+        <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true" 
              alt="Present Evolution">
-        <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+        <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif?raw=true" 
              alt="Future Evolution">
     </div>
 </body>
