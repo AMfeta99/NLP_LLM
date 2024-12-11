@@ -17,7 +17,7 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 
 ## Application_Demo
 TimeMetamorphy app was developed with Gradio. This is hosted by Hugging Face Spaces, so anyone can have access to it.
-### Try the Demo : [App](https://huggingface.co/spaces/AMfeta99/Object_Evolution_Generator).
+### Try the Demo : [TimeMetamorphy_app](https://huggingface.co/spaces/AMfeta99/Object_Evolution_Generator).
 
 ## Setup
 - Create a virtual environment and install the required packages:
@@ -98,15 +98,19 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 
 ## Repository_files
   - [requirements.txt](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/Object_Evolution_Generator/requirements.txt) (text file with a list the packages used)
-  - [APP.py](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/Object_Evolution_Generator/app.py)(Main file)
+  - [app.py](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/Object_Evolution_Generator/app.py)(Main file, containing all functions runnable app)
+  - [AI_AGENT_Object_Evolution_Generator.ipynb](https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/AI_AGENT_Object_Evolution_Generator.ipynb) (Jupiter Notebook Proof of Concept (PoC) for an AI Agent that generate an image based on a prompt, using search+image_gen tool. Extention the PoC to the an object evolution generator system, by generating an image for past/present/future)
 
+
+The AI Agent generates an image based on a prompt and a search query
 Methods/Functions:
-
-
+  - plot_and_save_agent_image (visualization & save an AgentImage)
+  - generate_prompts_for_object (generate prompts for each timestamp)
+  - generate_object_history (main function, calls Agent to gen imgs/gif)
+  - create_gradio_interface (Gradio interface for the app)
 
 
 ## Acknowledgements
-- Santiago Valdarrama. (2024). [llm](https://github.com/svpino/llm/tree/main/guessing). GitHub, who contributed significantly to the idealization of the project.
 - [Ollama](https://ollama.com/). Source of llm models.
 - [OpenAi API](https://openai.com/index/openai-api/). Source of llm models.
 - [Medium](https://medium.com/@GPTPlus/ai-in-human-robot-interaction-884ef04bdd88). repository img
