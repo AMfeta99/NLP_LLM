@@ -5,7 +5,7 @@ Isn’t it amazing to see how much things have changed and evolved over time? An
 
 #### **Unlocking the secrets of time!**
 
-This project unveils these mysteries by offering a unique/magic lens that allows us time travel. Powered by AI agents equipped with cutting-edge tools, it provides the superpower to explore the past awitness the present, and dream up the future like never before.  
+This project unveils these mysteries by offering a unique/magic lens that allows us "time travel". Powered by AI agents equipped with cutting-edge tools, it provides the superpower to explore the past, witness the present, and dream up the future like never before.  
 
 ### Index:
 
