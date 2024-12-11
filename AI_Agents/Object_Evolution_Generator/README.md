@@ -9,11 +9,11 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 
 ### Index:
 <div style="display: flex; justify-content: space-around; align-items: center;">
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+    <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Past Evolution" style="width: 25%;">
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+    <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Present Evolution" style="width: 25%;">
-    <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
+    <img src="https://raw.githubusercontent.com/AMfeta99/NLP_LLM/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
          alt="Future Evolution" style="width: 25%;">
 </div>
 
