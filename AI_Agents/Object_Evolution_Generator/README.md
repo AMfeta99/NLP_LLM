@@ -113,7 +113,7 @@ Below are the final GIFs generated for the objects named 'Car,' 'Phone,' and 'Hu
 To achieve the mentioned result, the AI agent uses reasoning to decide the actions to take and the tools to use. The following image demonstrates this process for generating the representative image of the object 'Car' from the past.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/166b16b7-6d8a-419b-a5ea-34e7ba17008d" alt="output" style="width: 90%;">
+  <img src="https://github.com/user-attachments/assets/166b16b7-6d8a-419b-a5ea-34e7ba17008d" alt="output" style="width: 95%;">
   <br>
   <em></em>
 </p>
