@@ -47,7 +47,7 @@ This Agent follows the **ReAct** framework combining **Reasoning + Acting (ReAct
 This type of agent operates by iteratively reasoning about the task, deciding on the necessary steps, and performing actions using external tools or executing code to achieve its goals.
 
   - #### 1. Code: 
-      ReactCodeAgent can execute Python code or interact with code-related tools, allowing it to perform computational tasks, manipulate data, or even write and debug scripts as part of its workflow.
+      **ReactCodeAgent** can execute Python code or interact with code-related tools, allowing it to perform computational tasks, manipulate data, or even write and debug scripts as part of its workflow.
 
   - #### 2. Tool Integration: 
        It can integrate with tools like web search engines, calculators, APIs, or custom modules to extend its capabilities beyond language-based reasoning.
@@ -57,6 +57,13 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 
 
 ### Tools
+  - #### 1. Image Generation Tool
+       - This tool uses the Hugging Face Inference API (Serverless) to generate images via Stable Diffusion.
+       - The tool is loaded directly from the Hugging Face Hub, providing seamless integration and functionality.
+
+  - #### 2. Web Search Tool
+       - This is a built-in tool that allows the agent to search and retrieve information from the web.
+       - It enables the agent to gather external knowledge to support its tasks.
 
 
 
