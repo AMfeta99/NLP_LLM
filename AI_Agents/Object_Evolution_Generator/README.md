@@ -11,23 +11,24 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <div style="text-align: center;">
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
-         alt="Past Evolution" style="width: 25%;">
+         alt="Past Evolution" style="width: 150px;">
     <br>
-    <em>Car Evolution</em>
+    <em>Past Evolution</em>
   </div>
   <div style="text-align: center;">
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
-         alt="Present Evolution" style="width: 25%;">
+         alt="Present Evolution" style="width: 150px;">
     <br>
     <em>Present Evolution</em>
   </div>
   <div style="text-align: center;">
     <img src="https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/Object_Evolution_Generator/car_evolution.gif" 
-         alt="Future Evolution" style="width: 25%;">
+         alt="Future Evolution" style="width: 150px;">
     <br>
     <em>Future Evolution</em>
   </div>
 </div>
+
 
 
 [APP](https://huggingface.co/spaces/AMfeta99/Object_Evolution_Generator)
