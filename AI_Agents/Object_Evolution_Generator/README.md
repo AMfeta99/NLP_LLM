@@ -24,9 +24,9 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 
 ## Usage
 After the installation is ready, give it a try. To get started, you will be asked to enter: 
--  1. A Object/Concept name
--  2. Click on "Generate Evolution"
--  3. AI_Agent is processing, when finish it will output 3 images (past/present/future) and generate a gif. 
+1. A Object/Concept name
+2. Click on "Generate Evolution"
+3. AI_Agent is processing, when finish it will output 3 images (past/present/future) and generate a gif. 
   
 
 ## Methods
