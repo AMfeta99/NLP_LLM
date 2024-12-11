@@ -15,7 +15,23 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 - [Repository_files](#Repository_files)
 - [Acknowledgements](#Acknowledgements)
 
+## Setup
+- Create a virtual environment and install the required packages:
+  
+         $ python3 -m venv .venv
+         $ source .venv/bin/activate
+         $ pip install -r requirements.txt
 
+## Usage
+After the installation is ready, give it a try. To get started, you will be asked to enter: 
+-  1. A Object/Concept name
+-  2. Click on "Generate Evolution"
+-  3. AI_Agent is processing, when finish it will output 3 images (past/present/future) and generate a gif. 
+  
+
+## Methods
+
+## Results
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
     <img src="car_evolution.gif" alt="Car Evolution" style="width: 330px;">
