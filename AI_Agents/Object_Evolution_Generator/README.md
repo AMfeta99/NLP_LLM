@@ -104,11 +104,10 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 
 The AI Agent generates an image based on a prompt and a search query
 Methods/Functions:
-  - <p><u>plot_and_save_agent_image</u></p> (visualization & save an AgentImage)
-  - plot_and_save_agent_image (visualization & save an AgentImage)
-  - generate_prompts_for_object (generate prompts for each timestamp)
-  - generate_object_history (main function, calls Agent to gen imgs/gif)
-  - create_gradio_interface (Gradio interface for the app)
+  - _plot_and_save_agent_image_ (visualization & save an AgentImage)
+  - _generate_prompts_for_object_ (generate prompts for each timestamp)
+  - _generate_object_history_ (main function, calls Agent to gen imgs/gif)
+  - _create_gradio_interface_ (Gradio interface for the app)
 
 
 ## Acknowledgements
