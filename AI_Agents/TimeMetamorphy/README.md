@@ -96,6 +96,7 @@ This type of agent operates by iteratively reasoning about the task, deciding on
 
 ### Gif examples/results
 Below are the final GIFs generated for the objects named 'Car,' 'Human,' and 'Netherlands'.
+
 For more results: [results_folder](results)
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
