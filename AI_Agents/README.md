@@ -28,7 +28,7 @@ Copyright of all materials in thoses courses belongs to DeepLearning.AI, CrewAI 
 
 ## Projects:
 Here are links to my AI-Agent projects: 
-- ### [TimeMetamorphy](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/Object_Evolution_Generator)
+- ### [TimeMetamorphy](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/TimeMetamorphy)
    Object Evolution Generator system powered by AI agents equipped with cutting-edge tools, to  explore the past, witness the present, and dream up the future like never before.
 - ### [Candidate_AI_Advocate](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/Candidate_AI_Advocate) (Under construction)
 
