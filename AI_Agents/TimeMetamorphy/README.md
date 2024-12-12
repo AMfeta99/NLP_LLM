@@ -105,7 +105,7 @@ Below are the final GIFs generated for the objects named 'Car,' 'Phone,' and 'Hu
     <img src="results/human_evolution.gif" alt="Human Evolution" style="width: 330px;">
   </figure>
   <figure style="margin: 10px; text-align: center;">
-    <img src="results/netherlands_evolution.gif" alt="NL Evolution" style="width: 330px;">
+    <img src="results/Netherlands_evolution.gif" alt="NL Evolution" style="width: 330px;">
   </figure>
 </div>
 
