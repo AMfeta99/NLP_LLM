@@ -99,13 +99,13 @@ Below are the final GIFs generated for the objects named 'Car,' 'Phone,' and 'Hu
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 10px; text-align: center;">
-    <img src="car_evolution.gif" alt="Car Evolution" style="width: 330px;">
+    <img src="results/car_evolution.gif" alt="Car Evolution" style="width: 330px;">
   </figure>
   <figure style="margin: 10px; text-align: center;">
-    <img src="phone_evolution.gif" alt="Phone Evolution" style="width: 330px;">
+    <img src="results/human_evolution.gif" alt="Human Evolution" style="width: 330px;">
   </figure>
   <figure style="margin: 10px; text-align: center;">
-    <img src="https://amfeta99-object-evolution-generator.hf.space/gradio_api/file=/tmp/gradio/e137e19163a0d5e9785ae84e4c8100c9ed22478e1c64a6218bd6c19a3c272bf3/Human_evolution.gif" alt="Human Evolution" style="width: 330px;">
+    <img src="results/netherlands_evolution.gif" alt="NL Evolution" style="width: 330px;">
   </figure>
 </div>
 
