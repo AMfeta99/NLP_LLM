@@ -90,12 +90,15 @@ agent = ReactCodeAgent(tools=[image_generation_tool, search_tool], llm_engine=ll
 # Gradio interface
 def create_gradio_interface():
     with gr.Blocks() as demo:
-        gr.Markdown("# Object Evolution Generator")
+        gr.Markdown("# TimeMetamorphy: an Object Evolution Generator")
         
         # Add a section for instructions
         gr.Markdown("""
-        ## Welcome to the Object Evolution Generator!
-        This app allows you to generate visualizations of how an object, like a bicycle or a car, may have evolved over time. 
+        ## Unlocking the secrets of time!
+        This app unveils these mysteries by offering a unique/magic lens that allows us "time travel". 
+        Powered by AI agents equipped with cutting-edge tools, it provides the superpower to explore the past, witness the present, and dream up the future like never before.
+        
+        This system allows you to generate visualizations of how an object/concept, like a bicycle or a car, may have evolved over time. 
         It generates images of the object in the past, present, and future based on your input.
         
         ### Default Example: Evolution of a Car
