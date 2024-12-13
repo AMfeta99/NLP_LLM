@@ -125,7 +125,7 @@ To achieve the mentioned result, the AI agent uses reasoning to decide the actio
 
 ## Repository_files
   - [requirements.txt](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/TimeMetamorphy/requirements.txt) (text file with a list the packages used)
-  - [app.py](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/TimeMetamorphy/app.py) (Main file, containing all functions runnable app)
+  - [app.py](https://github.com/AMfeta99/NLP_LLM/edit/main/AI_Agents/TimeMetamorphy/app.py) (Main file, containing all functions. Runnable app)
   - [AI_AGENT_Object_Evolution_Generator.ipynb](https://github.com/AMfeta99/NLP_LLM/blob/main/AI_Agents/TimeMetamorphy/AI_AGENT_Object_Evolution_Generator.ipynb) (Proof of Concept (PoC) of AI Agent that generate an image based on a prompt, using search+image_gen tool. Extention the PoC to the an object evolution generator system, by generating an image for past/present/future)
 
 
