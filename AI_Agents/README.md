@@ -30,7 +30,8 @@ Copyright of all materials in thoses courses belongs to DeepLearning.AI, CrewAI 
 Here are links to my AI-Agent projects: 
 - ### [TimeMetamorphy](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/TimeMetamorphy)
    Object Evolution Generator system powered by AI agents equipped with cutting-edge tools, to  explore the past, witness the present, and dream up the future like never before.
-- ### [Candidate_AI_Advocate](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/Candidate_AI_Advocate) (Under construction)
+- ### [BankWise.AI](https://github.com/AMfeta99/BankWise.AI_AnaSousa)
+<!-- - ### [Candidate_AI_Advocate](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/Candidate_AI_Advocate) (Under construction) -->
 
 ## Resources
 - [Natural Language Processing - DeepLearning.ai](https://www.deeplearning.ai/resources/natural-language-processing/?utm_campaign=Pillar%20pages&utm_content=286795896&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18246783)
