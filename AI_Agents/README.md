@@ -31,7 +31,7 @@ Here are links to my AI-Agent projects:
 - ### [TimeMetamorphy](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/TimeMetamorphy)
    Object Evolution Generator system powered by AI agents equipped with cutting-edge tools, to  explore the past, witness the present, and dream up the future like never before.
 - ### [BankWise.AI](https://github.com/AMfeta99/BankWise.AI_AnaSousa)
-  BankWise.AI an AI-powered customer support solution designed to handle phone calls and revolutionize the banking experience. It brings together a team of specialized AI agents, each playing a unique role in delivering seamless, secure, and personalized customer assistance. 
+  (Private repo) BankWise.AI an AI-powered customer support solution designed to handle phone calls and revolutionize the banking experience. It brings together a team of specialized AI agents, each playing a unique role in delivering seamless, secure, and personalized customer assistance. 
 <!-- - ### [Candidate_AI_Advocate](https://github.com/AMfeta99/NLP_LLM/tree/main/AI_Agents/Candidate_AI_Advocate) (Under construction) -->
 
 ## Resources
