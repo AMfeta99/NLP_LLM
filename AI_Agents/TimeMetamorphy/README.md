@@ -18,7 +18,8 @@ This project unveils these mysteries by offering a unique/magic lens that allows
 
 ## Application_Demo
 TimeMetamorphy app was developed with Gradio. This is hosted by Hugging Face Spaces, so anyone can have access to it.
-### Try the Demo : [TimeMetamorphy_app](https://huggingface.co/spaces/AMfeta99/Object_Evolution_Generator).
+### Try the Demo : [TimeMetamorphy_app](https://huggingface.co/spaces/AMfeta99/Object_Evolution_Generator) or [Notebook](https://colab.research.google.com/drive/1aKBJWkRBKhW8VFEu8p1zaxJr9VDzPaRz?usp=sharing)
+
 
 ## Setup
 - Create a virtual environment and install the required packages:
